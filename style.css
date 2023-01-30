@@ -1,4 +1,21 @@
-my-vid {
+
+
+h1 {
+    display: block;
+    font-family: arial, helvetica, sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.my-section {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.my-vid {
     width: 100%;
     height: auto;
+    min-width: 400px;
+    max-width: 1024px;
 }
