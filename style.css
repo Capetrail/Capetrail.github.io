@@ -1,12 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Montserrat:wght@500&display=swap');
+
+@font-face {
+    font-family: "Booter- Zero Zero";
+    src: url("Fonts/Booter - Zero Zero.woff") format("woff");
+    src: url("Fonts/Booter - Zero Zero.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}        /* margin: 150px auto 200px; */
+
+* {
+    /* box-sizing: border-box;     */
+    font-family: 'Montserrat', sans-serif;
+    /* color: #777; */
+}
 
 .container {
         display: block;    
-        /* margin: 150px auto 200px; */
 }
+
+
 
 h1 {
     display: inline-block;
-    font-family: arial, helvetica, sans-serif;
     text-align: center;
     font-size: 3.5rem;
     font-weight: lighter;
@@ -25,7 +42,7 @@ p {
     color:rgb(50, 50, 50)
 }
 
-.my-section {
+.vid-section {
     display:flex;
     align-items: center;
     justify-content: center;
