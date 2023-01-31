@@ -8,12 +8,10 @@
     src: url("Fonts/Booter - Zero Zero.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
-}        /* margin: 150px auto 200px; */
+}   
 
 * {
-    /* box-sizing: border-box;     */
     font-family: 'Montserrat', sans-serif;
-    /* color: #777; */
 }
 
 .container {
